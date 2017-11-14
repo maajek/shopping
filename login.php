@@ -1,4 +1,4 @@
 <?php
   
-  echo "This is a git class"
+  echo "This is a gitt class"
 ?>
